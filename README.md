@@ -34,4 +34,5 @@ apksigner sign --ks xxx.jks --ks-pass pass:<ks_pwd> --ks-key-alias <alias> --ks-
 其中xxx.jks是密钥库文件，可用通过Android Studio生成，<ks_pwd>是密钥库的密码，<key_pwd>是密钥密码，如果没有密码则不需要提供，或者也可以通过其他方式提供，具体细节参考[官方文档](https://developer.android.google.cn/studio/command-line/apksigner?hl=zh-cn)。
 
 也可以使用GUI工具一键解包/打包，不再赘述。
+https://www.bilibili.com/read/cv22198385
 
